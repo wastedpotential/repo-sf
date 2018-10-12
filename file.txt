@@ -1,1 +1,7 @@
-this is the first file
+this is the first file.
+
+This is some more content that I added just for fun.
+
+Here's something I'll probably delete later.
+
+Then, I'll some more things here.
