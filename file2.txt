@@ -1,3 +1,5 @@
 this is another file.
 
-I'm adding some content here, just so it will show up on the repo as a change.
+I'm adding some content here.
+
+Made some other changes.
